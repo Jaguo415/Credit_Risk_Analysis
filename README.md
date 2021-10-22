@@ -68,4 +68,4 @@ Based on the performance of these models, we should use the results to help pred
 * There is a lower number of applicants in high_risk so its precision is about 7% with a 91% sensativity.
 * There is a higher number of applicants in low_risk so its precisiion is about 100% and with a 94% sensativity.
 
-## Summary
+
